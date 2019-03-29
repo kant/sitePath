@@ -15,7 +15,7 @@ Description: Find sites with evolutionary siginficance in
     viral protein sequence.
 License: MIT + file LICENSE
 Depends:
-    R (>= 3.6.0)
+    R (>= 3.5.0)
 Imports:
     ape,
     seqinr,
