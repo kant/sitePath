@@ -10,7 +10,7 @@ Description: The package does hierarchical search for fixation events given
     can be specific to a phylogenetic lineages or shared by multiple lineages.
 License: MIT + file LICENSE
 Depends:
-    R (>= 3.6.0)
+    R (>= 3.5.0)
 Imports:
     ape,
     seqinr,
